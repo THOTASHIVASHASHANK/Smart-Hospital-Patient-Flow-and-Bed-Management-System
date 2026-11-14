@@ -2,7 +2,7 @@
 # Hospital Search Mini Project
 
 ## 📌 Project Title
-**SIH1620 - Queuing Models in OPDs / Availability of Beds / Admission of Patients**
+Smart Hospital Patient Flow and Bed Management System
 
 ## 👨‍💻 Developed By
 - K. Mahesh (227Y1A1226)
@@ -16,7 +16,7 @@ Academic Year: 2022-2026 | Regulation: R-22
 ---
 
 ## 📝 Description
-A smart hospital queue and bed availability management system using Python and Flask.  
+Smart Hospital Patient Flow and Bed Management System using Python and Flask.  
 It enables searching hospitals based on:
 - Hospital Name
 - City
